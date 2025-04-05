@@ -1,5 +1,5 @@
 // Import GSAP and ScrollTrigger
-// Note: We're loading these from node_modules in the HTML file
+// Note: We're loading these from CDN links in the HTML file
 
 // Register GSAP plugins
 gsap.registerPlugin(ScrollTrigger, ScrollToPlugin);
